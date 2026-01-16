@@ -1,0 +1,7 @@
+User: Hi
+AI: Hello! How can I help you today?
+User: I am Mye 
+AI: Nice to meet you, Mye! How can I help you today?
+User: What is my name?
+AI: Your name is Mye! How can I help you with anything else?
+End of Conversation
